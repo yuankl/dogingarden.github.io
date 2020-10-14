@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "./static/css/main.db9da793.chunk.css",
+    "main.js": "./static/js/main.a2b0fb71.chunk.js",
+    "main.js.map": "./static/js/main.a2b0fb71.chunk.js.map",
+    "runtime~main.js": "./static/js/runtime~main.dce1b889.js",
+    "runtime~main.js.map": "./static/js/runtime~main.dce1b889.js.map",
+    "static/js/2.220ac357.chunk.js": "./static/js/2.220ac357.chunk.js",
+    "static/js/2.220ac357.chunk.js.map": "./static/js/2.220ac357.chunk.js.map",
+    "static/js/3.09b66bd8.chunk.js": "./static/js/3.09b66bd8.chunk.js",
+    "static/js/3.09b66bd8.chunk.js.map": "./static/js/3.09b66bd8.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.7e8edc1a1895affb3b1918ef359d0262.js": "./precache-manifest.7e8edc1a1895affb3b1918ef359d0262.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.db9da793.chunk.css.map": "./static/css/main.db9da793.chunk.css.map",
+    "static/media/11.png": "./static/media/11.ce158e82.png",
+    "static/media/12.png": "./static/media/12.17c49971.png",
+    "static/media/13.png": "./static/media/13.a6934414.png",
+    "static/media/index.css": "./static/media/SourceHanSerifCN-Bold.8648fa69.otf",
+    "static/media/WechatIMG364.jpg": "./static/media/WechatIMG364.bf308961.jpg",
+    "static/media/difangzhengfu.png": "./static/media/difangzhengfu.3400685b.png",
+    "static/media/guowu.png": "./static/media/guowu.37b7309d.png",
+    "static/media/titles.png": "./static/media/titles.22a6618c.png",
+    "static/media/waijiaojigou.png": "./static/media/waijiaojigou.1559dc73.png"
+  }
+}
